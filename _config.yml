@@ -4,11 +4,11 @@
 
 title: Mohan Gowda T # the website title (if blank, full name will be used instead)
 first_name: Mohan
-middle_name: 
-last_name: Gowda T
-email: you@example.com
+middle_name: Gowda
+last_name: T
+email: mohangowda.mgt@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Hi there 👋, I'm Mohan. An Aspiring Software Engineer and a Data Scientist from Bangalore, India.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
